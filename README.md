@@ -33,9 +33,10 @@ Developed an interactive, end-to-end Power BI report to track sales revenue ($24
 ---
 
 ## 📸 Dashboard Screenshots
-*(Upload your dashboard images to the screenshots folder and update these paths)*
-![Executive Summary](screenshots/executive_summary.png)
-![Product Detail](screenshots/product_detail.png)
+* **Executive Summary:** ![Alt text](https://github.com/jangradinesh088-creator/Adventure-Works-PowerBI-Analysis/blob/main/Home.PNG)
+* **Product Detail Page:** ![Alt text](https://github.com/jangradinesh088-creator/Adventure-Works-PowerBI-Analysis/blob/main/Product%20detail.png)
+* **Map / Regional Detail:** ![Alt text](https://github.com/jangradinesh088-creator/Adventure-Works-PowerBI-Analysis/blob/main/map.png)
+* **Customer details:**  ![Alt text](https://github.com/jangradinesh088-creator/Adventure-Works-PowerBI-Analysis/blob/main/cdetails.png)
 
 ---
 
